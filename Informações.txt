@@ -1,0 +1,3 @@
+Desenvolvido by Alan Diego
+Qualquer dúvida entrar em contato.
+Projeto de clusterização com kmeans.
